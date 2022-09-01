@@ -1,2 +1,2 @@
-# project1
+# project-1
 tic-tac-teo
